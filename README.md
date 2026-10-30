@@ -8,8 +8,8 @@ Capstone, AI and ML Certification Program, E\&ICT Academy IIT Roorkee. Synthetic
 From a fresh clone (Python 3.10+):
 
 ```bash
-git clone https://github.com/<SahillMaqbool>/<delhivery-delay-intelligence>.git
-cd <https://github.com/SahillMaqbool/delhivery-delay-intelligence.git>
+git clone https://github.com/SahillMaqbool/delhivery-delay-intelligence.git
+cd delhivery-delay-intelligence
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\\Scripts\\activate
 pip install -r requirements.txt
